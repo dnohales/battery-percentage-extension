@@ -1,0 +1,8 @@
+{
+	"uuid": "battery-percentage@nohales.org",
+	"shell-version": ["3.10", "3.12"],
+	"name": "Battery Percentage",
+	"description": "Show battery remaining power percentage at the top panel",
+	"url": "https://github.com/eagleoneraptor/battery-percentage-extension",
+	"original-authors": ["damiannohales@gmail.com"]
+}
